@@ -1,0 +1,17 @@
+Modify the tone of the website copy based on the type of business.
+
+Tone Guidelines:
+
+Cafe / Restaurant
+Friendly, warm, inviting, and casual.
+
+Salon
+Friendly, stylish, and welcoming.
+
+Clinic
+Professional, trustworthy, and reassuring.
+
+Agency
+Confident, modern, and results-driven.
+
+Rewrite the content using the appropriate tone while keeping the meaning the same.
