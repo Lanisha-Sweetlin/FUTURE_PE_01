@@ -1,0 +1,41 @@
+You are a professional website copywriter specializing in local businesses.
+
+Generate conversion-focused website copy for the following business.
+
+Business Name: Black Door Cafe
+Location: Coimbatore, Tamil Nadu
+Business Type: Cafe
+
+Target Audience:
+College students, young professionals, and coffee lovers.
+
+Unique Selling Points:
+- Cozy and aesthetic interiors
+- High-quality specialty coffee
+- Relaxing hangout spot
+- Delicious desserts and snacks
+
+Products / Services:
+- Specialty Coffee
+- Signature Desserts
+- Pasta and Burgers
+- Snacks
+- Cold Beverages
+
+Generate the following sections:
+
+1. Homepage Hero Section
+Headline – clear value proposition  
+Subheadline – who the cafe is for and key benefit  
+Short introduction about the cafe
+
+2. Services / Menu Section
+Write short descriptions for each menu category.
+
+3. Why Choose Us
+Provide four benefit-driven bullet points explaining why customers should visit.
+
+4. Call-To-Action
+Encourage visitors to visit the cafe.
+
+Write in a friendly, engaging, and persuasive tone suitable for a modern cafe website.
